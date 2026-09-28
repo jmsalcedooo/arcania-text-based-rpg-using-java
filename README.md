@@ -6,6 +6,7 @@
 **Arcania** is a text-based Java RPG where a student's failing General Weighted Average (GWA) transports them into the fantasy world of Eldoria to battle monsters and complete quests. Built using core object-oriented programming principles, the game features dynamic combat, custom ASCII art, and interactive mini-games like word guessing, math quizzes, and rock-paper-scissors. 
 
 * **Main Programmer:** Hero Retuerma
+* **Main Documentation & Testing:** Triscia Cabello
 * **My Role:** Implementation of Hearts, Rock-Paper-Scissors, Ideation of ASCII Arts, and Sound Effects
 
 ---
